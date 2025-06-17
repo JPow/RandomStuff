@@ -11,3 +11,9 @@ Contents
    - calculate the forex spread the bank is charging you (which they do not show on the statments) and sum
    - includes a double check
    - Dependencies: pandas, GoogleTranslator (free api).
+
+2. Continuing with the totally random theme! You can take this python code to create a LinkedIn image that slides between two images and gives followers the chance to say which they prefer. I used it for a branding exercise and got feedback from two logos.
+   - Uses linkedin specs but you can update pixel size
+   - Save your images in the same folder your code is in.
+   - Put your file names into the function, establish a filename.
+   - An animated gif is produced ready for posting.
