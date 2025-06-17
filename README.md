@@ -17,3 +17,8 @@ Contents
    - Save your images in the same folder your code is in.
    - Put your file names into the function, establish a filename.
    - An animated gif is produced ready for posting.
+
+   Requirements for the slider file
+   - Python: Version 3.6 or higher
+   - Pillow (PIL): Version 10.2.0 or higher
+   - NumPy: Version 1.26.4 or higher
